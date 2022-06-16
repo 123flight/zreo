@@ -2,6 +2,8 @@
 
 主要是用来记录一些自己平时所碰到的问题或者一些好的东西 [其他平台blog](https://blog.nowcoder.net/happy315)
 
+[友情链接](https://github.com/wsafight)
+
 记录的工具源自于工作，生活，开源软件，算法网站，以及他人书籍。
 
 目前分类为:
