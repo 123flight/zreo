@@ -11,8 +11,6 @@
 * 业务工具
 
 * 用户体验
-    * [获取汉字拼音首字母](https://123flight.github.io/zreo/#/UX/first-letter)
-    * [禁止浏览器进行表单填充](https://123flight.github.io/zreo/#/UX/disable-auto-fill)
 
 * 效率工具
 
