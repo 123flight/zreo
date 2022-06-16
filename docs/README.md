@@ -1,8 +1,8 @@
+![图片](https://s3.bmp.ovh/imgs/2022/06/16/76796a98ca7af042.png)
+
 主要是用来记录一些自己平时所碰到的问题或者一些好的东西 [其他平台blog](https://blog.nowcoder.net/happy315)
 
 记录的工具源自于工作，生活，开源软件，算法网站，以及他人书籍。
-
-![图片](https://s3.bmp.ovh/imgs/2022/06/16/76796a98ca7af042.png)
 
 目前分类为:
 
