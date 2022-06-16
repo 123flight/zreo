@@ -19,3 +19,4 @@
 * GoLang
 
 * 碰到的问题
+* * [input类型为file时不能重复选择同一个文件的问题](/project-question/input-typeof-file.md)
