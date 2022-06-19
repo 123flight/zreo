@@ -7,6 +7,7 @@
 * 开发工具  
 
 * 效率工具
+* * [自己使用的工具分享](/tools/efficiency-tools.md)
 
 * 辅助开发 
 * * [小数四舍五入](/help/round.md)  
