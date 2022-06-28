@@ -8,6 +8,9 @@
 
 当前网址为: https://123flight.github.io/zreo/#/
 
+* 算法
+    * [compose问题](https://123flight.github.io/zreo/#/algorithm/compose.md)
+
 * 业务工具
 
 * 用户体验

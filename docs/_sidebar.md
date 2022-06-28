@@ -1,3 +1,6 @@
+* 算法
+* * [compose问题](/algorithm/compose.md)
+
 * 业务工具
 * * [格式化文件大小(简单版)](/business/format-file-size.md)
 * * [文件格式化库 filesize](/business/filesize.md)
