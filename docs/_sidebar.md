@@ -27,6 +27,8 @@
 
 * CSS 相关
 
+* TS 相关
+
 * 碰到的问题
 * * [input类型为file时不能重复选择同一个文件的问题](/project-question/input-typeof-file.md)
 * * [鼠标移入移出元素时元素抖动问题](/project-question/mouse-over-out.md)
