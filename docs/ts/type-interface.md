@@ -69,10 +69,9 @@ type TypePerson2 = Person1 & {
     interface Person {
         age: number;
     }
-    
-    // Person 实际为 {
-    //     name: string;
-    //     age: number;
-    // }
 ```
+Person 实际为 {
+    name: string;
+    age: number;
+}
 这种情况type是会报 重复定义 的警告
