@@ -62,17 +62,17 @@ type TypePerson2 = Person1 & {
 - interface可以做到，而type不能做到的
     - interface可以 声明合并，如下
 ```ts
-interface Person {
-    name: string;
-}
-
-interface Person {
-    age: number;
-}
-
-// Person 实际为 {
-//     name: string;
-//     age: number;
-// }
+    interface Person {
+        name: string;
+    }
+    
+    interface Person {
+        age: number;
+    }
+    
+    // Person 实际为 {
+    //     name: string;
+    //     age: number;
+    // }
 ```
 这种情况type是会报 重复定义 的警告
