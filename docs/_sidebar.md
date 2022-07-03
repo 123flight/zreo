@@ -24,6 +24,7 @@
 
 * JavaScript 相关
 * * [一张图助你理解原型链](/javascript/prototype.md) 
+* * [判断一个正整数是否为2的n次方](/javascript/ispoweroftwo.md)
 
 * CSS 相关
 
