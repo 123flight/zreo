@@ -27,6 +27,7 @@
 * * [判断一个正整数是否为2的n次方](/javascript/ispoweroftwo.md)
 
 * CSS 相关
+* * [你不知道的阴影](/css/shadow.md)
 
 * TS 相关
 * * [type和interface](/ts/type-interface.md)
