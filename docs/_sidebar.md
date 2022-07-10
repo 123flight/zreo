@@ -7,7 +7,8 @@
 
 * 用户体验
     
-* 开发工具  
+* 开发工具
+* * [Git的常用方式](/development-tools/git-tips.md)
 
 * 效率工具
 * * [自己使用的工具分享](/tools/efficiency-tools.md)

@@ -11,7 +11,8 @@
 * 算法
     * [compose问题](https://123flight.github.io/zreo/#/algorithm/compose.md)
 
-* 业务工具
+* 工具
+    * [Git的常用方式](https://123flight.github.io/zreo/#/development-tools/git-tips.md)
 
 * 用户体验
 
