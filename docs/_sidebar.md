@@ -29,6 +29,7 @@
 * * [数字格式化](/javascript/number-format.md)
 * * [map 和 parseInt](/javascript/map-parseint.md)
 * * [数组抹平](/array-screed.md)
+* * [数组对象去重](/array-object-unique.md)
 
 * CSS 相关
 * * [你不知道的阴影](/css/shadow.md)
