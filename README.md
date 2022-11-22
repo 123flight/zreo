@@ -33,6 +33,7 @@
     * [判断一个正整数是否为2的n次方](https://123flight.github.io/zreo/#/javascript/ispoweroftwo.md)
     * [数字格式化](https://123flight.github.io/zreo/#/javascript/number-format.md)
     * [map 和 parseInt](https://123flight.github.io/zreo/#/javascript/map-parseint.md)
+    * [数组抹平](https://123flight.github.io/zreo/#/javascript/array-screed.md)
 
 * CSS 相关
     * [你不知道的阴影](https://123flight.github.io/zreo/#/css/shadow.md)

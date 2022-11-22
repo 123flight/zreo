@@ -28,6 +28,7 @@
 * * [判断一个正整数是否为2的n次方](/javascript/ispoweroftwo.md)
 * * [数字格式化](/javascript/number-format.md)
 * * [map 和 parseInt](/javascript/map-parseint.md)
+* * [数组抹平](/array-screed.md)
 
 * CSS 相关
 * * [你不知道的阴影](/css/shadow.md)
