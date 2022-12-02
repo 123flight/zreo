@@ -33,6 +33,7 @@
 
 * CSS 相关
 * * [你不知道的阴影](/css/shadow.md)
+* * [一行代码实现页面置灰](/css/page-gray.md)
 
 * TS 相关
 * * [type和interface](/ts/type-interface.md)

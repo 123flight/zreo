@@ -38,6 +38,7 @@
 
 * CSS 相关
     * [你不知道的阴影](https://123flight.github.io/zreo/#/css/shadow.md)
+    * [一行代码实现页面置灰](https://123flight.github.io/zreo/#/css/page-gray.md)
 
 * TS 相关
     * [type和interface](https://123flight.github.io/zreo/#/ts/type-interface.md)
