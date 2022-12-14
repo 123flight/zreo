@@ -18,6 +18,7 @@
 
 * 实用工具
 * * [请求限流](/util/query-limit.md)
+* * [超时重试](/util/timeout-retry.md)
 
 * React
 

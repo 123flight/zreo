@@ -23,6 +23,7 @@
 
 * 实用工具
     * [请求限流](https://123flight.github.io/zreo/#/util/query-limit)
+    * [超时重试](https://123flight.github.io/zreo/#/util/timeout-retry)
 
 * React
 
